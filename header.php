@@ -8,7 +8,7 @@
  *
  * @package parent
  */
-
+var_dump($theme_base);
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?>>
