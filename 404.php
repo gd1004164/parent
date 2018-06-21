@@ -6,7 +6,7 @@
  *
  * @package parent
  */
-
+var_dump($theme_base);
 get_header();
 ?>
 
